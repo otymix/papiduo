@@ -1,0 +1,34 @@
+# PapiDuo
+
+> PapiDuo is a free mobile app (iPhone, iPad, Android) with 30 educational games for two players on the same screen, face to face, designed for a parent and a child aged 4 to 12. No ads, no in-app purchases, works offline, no account, no data collected. Available in French, English and Spanish. Tagline: "The screen that brings you closer" (French: « L'écran qui rapproche »).
+
+Key facts:
+- Developer: Othman Lahoui (independent, France). Contact: otymix@hotmail.com
+- Price: free. No ads, no purchases, no trackers, no sign-up. Works fully offline.
+- Ages: 4 to 12, each player chooses their own level, so an adult and a child (or two siblings of different ages) can play together. A "play against the computer" mode (3 levels) exists in almost every game.
+- How it works: the phone or tablet lies flat between two players; the top half of the screen is turned 180° for the player opposite. Games last about 5 minutes.
+- Skills: reading (syllables, phonics), math (addition, times tables, money, telling the time), logic and memory, languages (English/Spanish/French words), coding and understanding AI, drawing, shapes and space, active games.
+- Evening Tournament: one game a night for 7, 15 or 21 evenings, 2 to 4 players, with a podium and medals for everyone.
+- Privacy: no data leaves the device. The microphone is only used in "The Sound Factory" (speech practice), if a parent enables it, and is analysed on the device.
+
+## Download
+- [App Store (iPhone, iPad)](https://apps.apple.com/app/id6832245358)
+- [Google Play (Android)](https://play.google.com/store/apps/details?id=com.papiduo.app)
+
+## Pages
+- [Home (English)](https://papiduo.com/en/)
+- [Accueil (français)](https://papiduo.com/)
+- [Inicio (español)](https://papiduo.com/es/)
+- [Help & FAQ](https://papiduo.com/en/help.html)
+- [Privacy policy](https://papiduo.com/en/privacy.html)
+- [Full description for AI assistants](https://papiduo.com/llms-full.txt)
+
+## The 30 games (by skill)
+- Math and numbers: The Little Shopkeeper (Pay and give change), Tick-Tock Duel (Read the clock, fast!), All Aboard! (Fill your trains), Move Over! (Dice and cards 1 to 6), Quick Pairs! (Numbers and dots, fast!), Multi-Dice (Calculate and line up 4), Shut the Box (Add up the dice), Race Home (Go round, bring them home)
+- Logic and memory: The Fireflies (Follow them with your eyes!), The Conductor (Conductor says… or not?), The Secret Code (Find the hidden code), Line Them Up! (Tic-tac-toe & Drop Four), Dots and Boxes (Close the boxes), Number Hide & Seek (Remember where they are)
+- Words, sounds and languages: The Syllable Rocket (I'm learning to read!), The Sound Factory (Say sounds well, together), The Travelling Parrot (Learn words from far away), Treasure Grid (Crosswords for two), Sound Hunt (Listen and buzz!)
+- Create and draw: Guess My Drawing (Draw, guess, together), Dice Monsters (Build your monster)
+- Coding and understanding AI: Train Your Robot (Train an AI), Next Word! (How an AI writes), Hungry Robot (Program your robot)
+- Shapes and space: Magic Threads (Link without crossing!), Magic Shapes (Fill the silhouette), Air Duel (Shoot down 2 planes)
+- Moving together: Statues DJ (Dance… and freeze!), Express Hunt (Find it in the house)
+- Discovering the world: Flags Around the World (Tap the right flag)

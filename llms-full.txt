@@ -1,0 +1,70 @@
+# PapiDuo
+
+> PapiDuo is a free mobile app (iPhone, iPad, Android) with 30 educational games for two players on the same screen, face to face, designed for a parent and a child aged 4 to 12. No ads, no in-app purchases, works offline, no account, no data collected. Available in French, English and Spanish. Tagline: "The screen that brings you closer" (French: « L'écran qui rapproche »).
+
+Key facts:
+- Developer: Othman Lahoui (independent, France). Contact: otymix@hotmail.com
+- Price: free. No ads, no purchases, no trackers, no sign-up. Works fully offline.
+- Ages: 4 to 12, each player chooses their own level, so an adult and a child (or two siblings of different ages) can play together. A "play against the computer" mode (3 levels) exists in almost every game.
+- How it works: the phone or tablet lies flat between two players; the top half of the screen is turned 180° for the player opposite. Games last about 5 minutes.
+- Skills: reading (syllables, phonics), math (addition, times tables, money, telling the time), logic and memory, languages (English/Spanish/French words), coding and understanding AI, drawing, shapes and space, active games.
+- Evening Tournament: one game a night for 7, 15 or 21 evenings, 2 to 4 players, with a podium and medals for everyone.
+- Privacy: no data leaves the device. The microphone is only used in "The Sound Factory" (speech practice), if a parent enables it, and is analysed on the device.
+
+## Download
+- [App Store (iPhone, iPad)](https://apps.apple.com/app/id6832245358)
+- [Google Play (Android)](https://play.google.com/store/apps/details?id=com.papiduo.app)
+
+## Pages
+- [Home (English)](https://papiduo.com/en/)
+- [Accueil (français)](https://papiduo.com/)
+- [Inicio (español)](https://papiduo.com/es/)
+- [Help & FAQ](https://papiduo.com/en/help.html)
+- [Privacy policy](https://papiduo.com/en/privacy.html)
+- [Full description for AI assistants](https://papiduo.com/llms-full.txt)
+
+## The 30 games (by skill)
+- Math and numbers: The Little Shopkeeper (Pay and give change), Tick-Tock Duel (Read the clock, fast!), All Aboard! (Fill your trains), Move Over! (Dice and cards 1 to 6), Quick Pairs! (Numbers and dots, fast!), Multi-Dice (Calculate and line up 4), Shut the Box (Add up the dice), Race Home (Go round, bring them home)
+- Logic and memory: The Fireflies (Follow them with your eyes!), The Conductor (Conductor says… or not?), The Secret Code (Find the hidden code), Line Them Up! (Tic-tac-toe & Drop Four), Dots and Boxes (Close the boxes), Number Hide & Seek (Remember where they are)
+- Words, sounds and languages: The Syllable Rocket (I'm learning to read!), The Sound Factory (Say sounds well, together), The Travelling Parrot (Learn words from far away), Treasure Grid (Crosswords for two), Sound Hunt (Listen and buzz!)
+- Create and draw: Guess My Drawing (Draw, guess, together), Dice Monsters (Build your monster)
+- Coding and understanding AI: Train Your Robot (Train an AI), Next Word! (How an AI writes), Hungry Robot (Program your robot)
+- Shapes and space: Magic Threads (Link without crossing!), Magic Shapes (Fill the silhouette), Air Duel (Shoot down 2 planes)
+- Moving together: Statues DJ (Dance… and freeze!), Express Hunt (Find it in the house)
+- Discovering the world: Flags Around the World (Tap the right flag)
+
+## Les 30 jeux (français, par compétence)
+- Calcul et nombres : Le Petit Marchand (Paie et rends la monnaie), Tic-Tac Duel (Lis l'horloge, vite !), Tous à bord ! (Remplis tes trains), Pousse-toi ! (Dés et cartes 1 à 6), Vite, les paires ! (Chiffres et points, vite !), Multi-Dés (Calcule et aligne 4), Ferme la Boîte (Additionne les dés), Course à la Maison (Fais le tour, rentre tes pions)
+- Logique et mémoire : Les Lucioles (Suis-les des yeux !), Le Chef d'Orchestre (Le chef dit… ou pas ?), Le Code Secret (Trouve le code caché), Aligne-les ! (Morpion & 4 qui tombent), Pipopipette (Ferme des carrés), Cache-Cache Chiffres (Retiens où ils sont)
+- Mots, sons et langues : La Fusée des Syllabes (J'apprends à lire !), La Fabrique à Sons (Bien dire les sons, ensemble), Le Perroquet Voyageur (Apprends des mots d'ailleurs), La Grille aux Trésors (Mots croisés à deux), Chasse aux Sons (Écoute et buzze !)
+- Créer et dessiner : Devine mon Dessin (Dessine, devine, ensemble), Monstres à Dés (Construis ton monstre)
+- Coder et comprendre l'IA : Dresse ton Robot (Entraîne une IA), Mot suivant ! (Comment écrit une IA), Robot Glouton (Programme ton robot)
+- Formes et espace : Les Fils Magiques (Relie sans croiser !), Formes Magiques (Remplis la silhouette), Duel Aérien (Abats 2 avions)
+- Bouger ensemble : Statues DJ (Danse… et fige-toi !), Chasse Express (Trouve-le dans la maison)
+- Découvrir le monde : Le Tour du Monde des Drapeaux (Touche le bon drapeau)
+
+## FAQ (English)
+**Is it really free?** Yes: all 30 games, with no ads and no purchases.
+**Do I need internet or an account?** No. PapiDuo works completely offline, with no sign-up. No data is collected.
+**What age is it for?** Ages 4 to 12, with an adult or another child. Each player picks their level: an older and a younger child can play together.
+**What if we play alone?** Almost every game has a “Play against the computer” mode with 3 levels.
+**Which languages?** English, Spanish and French. The app follows your device language, and you can switch on the home screen.
+**Which devices?** iPhone, iPad, Android phones and tablets. A tablet lying flat between two players is ideal.
+**What is the Evening Tournament?** A family challenge: one game a night for 7, 15 or 21 evenings, 2 to 4 players, with standings, a podium and medals. Names stay on the device.
+**What about the microphone?** It is only used in The Sound Factory, if a parent turns it on: the sound is analysed on the phone, nothing is recorded or sent.
+
+## FAQ (français)
+**C'est vraiment gratuit ?** Oui : les 30 jeux, sans publicité et sans achat.
+**Faut-il internet ou un compte ?** Non. PapiDuo fonctionne entièrement hors ligne, sans inscription. Aucune donnée n'est collectée.
+**Pour quel âge ?** De 4 à 12 ans, avec un adulte ou un autre enfant. Chaque joueur choisit son niveau : un grand et un petit peuvent jouer ensemble.
+**Et si on joue seul ?** Presque tous les jeux ont un mode « Contre l'ordinateur » à 3 niveaux.
+**Dans quelles langues ?** Français, anglais et espagnol. L'app suit la langue de l'appareil, et on peut changer sur l'accueil.
+**Sur quels appareils ?** iPhone, iPad, téléphones et tablettes Android. Une tablette posée à plat entre deux joueurs, c'est l'idéal.
+**C'est quoi le Tournoi du Soir ?** Un défi en famille : un jeu par soir pendant 7, 15 ou 21 soirs, de 2 à 4 joueurs, avec un classement, un podium et des médailles. Les prénoms restent sur l'appareil.
+**Et le micro ?** Il ne sert que dans La Fabrique à Sons, si un parent l'active : le son est analysé dans le téléphone, rien n'est enregistré ni envoyé.
+
+## Description (français)
+Le problème n'est pas l'écran, c'est ce qu'on en fait. Posez le téléphone entre vous deux, chacun son côté, face à face : 30 jeux de 5 minutes pour rire ensemble pendant que votre enfant apprend à lire, à compter, à réfléchir. Sans pub, hors ligne… et fait pour être posé ensuite.
+
+## Description (English)
+The problem isn't the screen, it's what we do with it. Put the phone between you, one side each, face to face: 30 five-minute games to laugh together while your child learns to read, count and think. No ads, offline… and made to be put down afterwards.
