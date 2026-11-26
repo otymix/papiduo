@@ -72,6 +72,11 @@ p.st{color:#fff;text-align:center;font-weight:600;margin:0 auto 22px;max-width:6
 .faq{padding:28px 30px 24px 56px}.faq h2{font-family:var(--title);margin:0 0 8px;font-size:30px}
 .faq details{border-bottom:2px dashed var(--grid);padding:12px 0}.faq summary{font-weight:800;cursor:pointer;font-size:17px;list-style:none}.faq summary::before{content:"＋ ";color:var(--red)}
 .faq details[open] summary::before{content:"－ "}.faq details p{margin:8px 0 0}
+/* QR codes (grand écran seulement) */
+.qr{margin-top:16px}.qr p{margin:0 0 8px;font-weight:700;font-size:14px;opacity:.75}.qr>div{display:flex;gap:14px}.cta .qr>div{justify-content:center}
+.qr figure{margin:0;background:#fff;border-radius:14px;padding:10px 10px 6px;box-shadow:0 4px 12px rgba(40,20,5,.18);text-align:center}
+.qr img{display:block;width:104px;height:104px;image-rendering:pixelated}.qr figcaption{font-weight:800;font-size:13px;margin-top:4px}
+@media(max-width:860px),(hover:none){.qr{display:none}}
 /* appel final */
 .cta{text-align:center;padding:36px 24px}.cta h2{font-family:var(--title);font-size:clamp(28px,4vw,40px);margin:0 0 6px}.cta p{margin:0 0 18px;font-size:18px}.cta .stores{justify-content:center}
 /* pages de texte */
